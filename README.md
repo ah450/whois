@@ -17,4 +17,4 @@ Make it `make`
 
 Then run whois `./whois <ip list>`
 
-<ip list> is a list of space seperated IPs either ipv4 or ipv6 or mixed.
+`ip list` is a list of space seperated IPs either ipv4 or ipv6 or mixed.
